@@ -1,37 +1,37 @@
 # Cannon Shot Ball Game
 The Cannon Shot Ball Game is an interactive Python project where players control a cannon to shoot balls. Utilize keyboard controls to aim and fire, and input parameters for velocity, angle, and radian to refine your shots. This game is built using graphics.py for visual elements.
 
-##Features
-###Keyboard Controls:
+## Features
+### Keyboard Controls:
 Right Arrow: Move cannon right
 Left Arrow: Move cannon left
 Up Arrow: Move cannon up
 Down Arrow: Move cannon down
 Fire: Press "f" to shoot
-###Customizable Shot Parameters:
+### Customizable Shot Parameters:
 Velocity: Control the speed of the shot
 Angle: Define the trajectory angle
 Radian: Adjust the angle in radians for precise control
 Installation
-git clone https://github.com/your-username/cannon-shot-ball-game.git
+git clone https://github.com/Sarina0/Cannon-Game.git
 cd cannon-shot-ball-game
 pip install graphics.py
 python cannon_game.py
 
-##Usage
-###Launch the game:
+## Usage
+### Launch the game:
 Run the game script using Python.
 
-###Control the cannon:
+### Control the cannon:
 Use the arrow keys to aim the cannon. Adjust the cannon's position to set up your shot.
 
-###Input shot parameters:
+### Input shot parameters:
 Enter values for velocity, angle, and radian to control the shot's dynamics.
 
-###Fire:
+### Fire:
 Press "f" to shoot the ball and observe its trajectory.
 
-#Contributing
+# Contributing
 Create a new branch
 git checkout -b feature-branch
 Make your changes and commit
