@@ -39,5 +39,6 @@ git commit -m 'Add new feature'
 Push to the branch
 git push origin feature-branch
 Submit a pull request
+# Download
 Enjoy playing the Cannon Shot Ball Game and refining your shooting skills! For any questions or issues, feel free to open an issue on the repository.
 Here is the link to [Cannon exe file](https://drive.google.com/file/d/1UsIaCkQ8rarp1Lj-LzuLJuezeeSelhyj/view?usp=sharing) you can download and play!
